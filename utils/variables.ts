@@ -19,7 +19,7 @@ export const projects: { name: string; description: string; iconURL: string; lin
   },
 ];
 
-export const githubUsername = 'heyturkiye';
+export const githubUsername = 'heyturkiye204';
 export const discordId = '718374283642011728';
 
 export const socialMediaAccounts: { name: string; link: string; iconURL: IconType }[] = [
