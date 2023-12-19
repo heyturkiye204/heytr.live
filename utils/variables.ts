@@ -54,8 +54,4 @@ export const technologiesAndLanguages: { name: string; iconURL: IconType }[] = [
     name: 'Next.js',
     iconURL: TbBrandNextjs,
   },
-  {
-    name: 'Html',
-    iconURL: SiHtml,
-  },
 ];
