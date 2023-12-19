@@ -1,5 +1,5 @@
 {
-  "name": "romanwashere.xyz",
+  "name": "heytr.live",
   "version": "2.0.0",
   "private": true,
   "scripts": {
@@ -34,7 +34,7 @@
   "main": "next.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ewgsta/romanwashere.xyz.git"
+    "url": "git+https://github.com/heyturkiye204/heytr.live.git"
   },
   "keywords": [
     "nextjs",
@@ -43,7 +43,7 @@
   "author": "ewgsta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ewgsta/romanwashere.xyz/issues"
+    "url": "https://github.com/heyturkiye204/heytr.live/issues"
   },
-  "homepage": "https://github.com/ewgsta/romanwashere.xyz#readme"
+  "homepage": "https://github.com/heyturkiye204/heytr.live#readme"
 }
