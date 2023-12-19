@@ -55,27 +55,7 @@ export const technologiesAndLanguages: { name: string; iconURL: IconType }[] = [
     iconURL: TbBrandNextjs,
   },
   {
-    name: 'Tailwindcss',
-    iconURL: SiTailwindcss,
-  },
-  {
-    name: 'Node.JS',
-    iconURL: DiNodejsSmall,
-  },
-  {
-    name: 'C#',
-    iconURL: TbBrandCSharp,
-  },
-  {
-    name: 'MongoDB',
-    iconURL: SiMongodb,
-  },
-  {
-    name: 'Express',
-    iconURL: SiExpress,
-  },
-  {
-    name: 'Firebase',
-    iconURL: SiFirebase,
+    name: 'Html',
+    iconURL: SiHtml,
   },
 ];
