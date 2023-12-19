@@ -6,16 +6,16 @@ import { TbBrandCSharp, TbBrandNextjs } from 'react-icons/tb';
 
 export const projects: { name: string; description: string; iconURL: string; link: string; }[] = [
   {
-    name: 'Nöbetçi Eczaneler Bilgi Ekranı',
-    description: 'Nöbetçi Eczaneler Bilgi Ekranı HTML tabanlı bir eczane bilgi sitesidir.',
+    name: 'NEBK (Turkish)',
+    description: 'NEBK HTML tabanlı bir eczane bilgi sitesidir.',
     link: 'https://eczaneler.works',
     iconURL: 'https://yda.heytr.me/projeler/eczane/icon/icon.svg',
   },
   {
-    name: 'Benle İletişime Geçin',
-    description: 'Benle İletişime Geçmek için Tıklayınız.',
+    name: 'Mail Contact',
+    description: 'Click to contact us via e-mail.',
     link: 'mailto:xrqu@sdevs.org',
-    iconURL: 'https://a.com',
+    iconURL: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/OOjs_UI_icon_message-invert.svg',
   },
 ];
 
