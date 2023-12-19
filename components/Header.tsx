@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <>
-      <div className='h-2 bg-blue-500'>
+      <div className='h-2 bg-violet-500'>
 
       </div>
     </>
