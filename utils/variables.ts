@@ -30,7 +30,7 @@ export const socialMediaAccounts: { name: string; link: string; iconURL: IconTyp
   },
   {
     name: 'Discord',
-    link: 'https://discord.com/' + discordId,
+    link: 'https://discord.com/users' + discordId,
     iconURL: BsDiscord,
   },
   {
