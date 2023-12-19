@@ -71,7 +71,7 @@ export default function PorfileDetails({ discord }: {discord: DiscordUserData | 
           </div>
         ) : (
           <div className={'w-36 rounded-full mb-4 md:mb-0 ring ring-primary ring-offset-base-100 ring-offset-2'}>
-            <Image className='rounded-full hover:opacity-75 transition duration-700' src={'https://i.hizliresim.com/2g0hqmy.jpg'} alt='avatar' width={1024} height={1024} />
+            <Image className='rounded-full hover:opacity-75 transition duration-700' src={'https://i.hizliresim.com/bg3ap8v.png'} alt='avatar' width={1024} height={1024} />
           </div>
         )}
       </div>
