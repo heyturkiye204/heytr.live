@@ -6,21 +6,21 @@ import { TbBrandCSharp, TbBrandNextjs } from 'react-icons/tb';
 
 export const projects: { name: string; description: string; iconURL: string; link: string; }[] = [
   {
-    name: 'Haberler',
-    description: 'It allows you to view local news via Discord.',
-    link: 'https://bit.ly/haberlerbot',
-    iconURL: 'https://cdn.discordapp.com/icons/1147505872625483819/71eca3384e61703feeba4448a633d5ca.png',
+    name: 'Proje 1',
+    description: 'Metin',
+    link: 'https://link.heytr.live/proje1',
+    iconURL: 'https://heyteknik.works/heytr-live/proje1.jpg',
   },
   {
-    name: 'Raven',
-    description: 'It provides access to free projects and codes.',
-    link: 'https://discord.gg/altyapilar',
-    iconURL: 'https://cdn.discordapp.com/icons/1096085223881576549/c2a37851263289188afde2ea135e0665.png',
+    name: 'Proje 2',
+    description: 'Metin',
+    link: 'https://link.heytr.live/proje2',
+    iconURL: 'https://heyteknik.works/heytr-live/proje2.jpg',
   },
 ];
 
-export const githubUsername = 'ewgsta';
-export const discordId = '341585045397438464';
+export const githubUsername = 'heyturkiye';
+export const discordId = '718374283642011728';
 
 export const socialMediaAccounts: { name: string; link: string; iconURL: IconType }[] = [
   {
@@ -35,12 +35,12 @@ export const socialMediaAccounts: { name: string; link: string; iconURL: IconTyp
   },
   {
     name: 'Instagram',
-    link: 'https://instagram.com/ewgsta',
+    link: 'https://instagram.com/xrqu.live',
     iconURL: BsInstagram,
   },
   {
     name: 'X',
-    link: 'https://twitter.com/ewgsta',
+    link: 'https://twitter.com/HayatDrubunu',
     iconURL: BsTwitterX,
   },
 ];
