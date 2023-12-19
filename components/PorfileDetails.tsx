@@ -10,10 +10,10 @@ export default function PorfileDetails({ discord }: {discord: DiscordUserData | 
     <div className='container mx-auto bg-zinc-900/30 w-11/12 sm:w-9/12 md:w-7/12 rounded-md flex flex-col-reverse my-16 py-10 px-8 justify-between md:flex-row md:items-center'>
       <div className='md:w-8/12'>
         <div className='space-y-2'>
-          <h1 className='text-2xl font-semibold'> Hello there, I&apos;m <span className='text-2xl font-semibold text-violet-500 hover:opacity-75 cursor-pointer'>@{githubUsername}</span> </h1>
+          <h1 className='text-2xl font-semibold'> Hello there, I&apos;m <span className='text-2xl font-semibold text-violet-500 hover:opacity-75 cursor-pointer'>Hey Türkiye.</span> </h1>
           <ul className='flex flex-row font-medium gap-x-1'>
             <li key={1}>he/him  ・ </li>
-            <li key={2}>Full-Stack Developer</li>
+            <li key={2}>SDEVS Moderator, Full-Stack Developer</li>
           </ul>
         </div>
         {/* Spotify, VSCode and dark mode */}
@@ -71,7 +71,7 @@ export default function PorfileDetails({ discord }: {discord: DiscordUserData | 
           </div>
         ) : (
           <div className={'w-36 rounded-full mb-4 md:mb-0 ring ring-primary ring-offset-base-100 ring-offset-2'}>
-            <Image className='rounded-full hover:opacity-75 transition duration-700' src={'https://media.tenor.com/IHdlTRsmcS4AAAAS/404.gif'} alt='avatar' width={1024} height={1024} />
+            <Image className='rounded-full hover:opacity-75 transition duration-700' src={'https://heyteknik.works/heytr-live/404.jpg'} alt='avatar' width={1024} height={1024} />
           </div>
         )}
       </div>
