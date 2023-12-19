@@ -6,16 +6,16 @@ import { TbBrandCSharp, TbBrandNextjs } from 'react-icons/tb';
 
 export const projects: { name: string; description: string; iconURL: string; link: string; }[] = [
   {
-    name: 'Proje 1',
-    description: 'Metin',
-    link: 'https://link.heytr.live/proje1',
-    iconURL: 'https://heyteknik.works/heytr-live/proje1.jpg',
+    name: 'Nöbetçi Eczaneler Bilgi Ekranı',
+    description: 'Nöbetçi Eczaneler Bilgi Ekranı HTML tabanlı bir eczane bilgi sitesidir.',
+    link: 'https://eczaneler.works',
+    iconURL: 'https://yda.heytr.me/projeler/eczane/icon/icon.svg',
   },
   {
-    name: 'Proje 2',
-    description: 'Metin',
-    link: 'https://link.heytr.live/proje2',
-    iconURL: 'https://heyteknik.works/heytr-live/proje2.jpg',
+    name: 'Benle İletişime Geçin',
+    description: 'Benle İletişime Geçmek için Tıklayınız.',
+    link: 'mailto:xrqu@sdevs.org',
+    iconURL: 'https://a.com',
   },
 ];
 
