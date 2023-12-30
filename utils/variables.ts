@@ -17,6 +17,18 @@ export const projects: { name: string; description: string; iconURL: string; lin
     link: 'mailto:xrqu@sdevs.org',
     iconURL: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/OOjs_UI_icon_message-invert.svg',
   },
+  {
+    name: 'Sivas Belediyesi Meraküm Kameraları',
+    description: 'Sivas Belediyesi Meraküm Kameraları sitesidir. (Turkish)',
+    link: 'https://merakum.live/',
+    iconURL: 'https://merakum.live/logo/yenilogo.png',
+  },
+  {
+    name: 'Hey Türkiye Mail Sistemi (HTMS)',
+    description: '3 harfli kendi kişisel mailinizi oluşturun. (Turkish)',
+    link: 'https://heytr.email/',
+    iconURL: 'https://heyteknik.works/hhaha',
+  },
 ];
 
 export const githubUsername = 'heyturkiye204';
