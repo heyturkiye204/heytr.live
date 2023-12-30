@@ -21,13 +21,13 @@ export const projects: { name: string; description: string; iconURL: string; lin
     name: 'Sivas Belediyesi Meraküm Kameraları',
     description: 'Sivas Belediyesi Meraküm Kameraları sitesidir. (Turkish)',
     link: 'https://merakum.live/',
-    iconURL: 'https://merakum.live/logo/yenilogo.png',
+    iconURL: 'https://upload.wikimedia.org/wikipedia/commons/c/c2/OOjs_UI_icon_camera-invert.svg',
   },
   {
     name: 'Hey Türkiye Mail Sistemi (HTMS)',
     description: '3 harfli kendi kişisel mailinizi oluşturun. (Turkish)',
     link: 'https://heytr.email/',
-    iconURL: 'https://heyteknik.works/hhaha',
+    iconURL: 'https://upload.wikimedia.org/wikipedia/commons/d/d4/OOjs_UI_icon_message-rtl-progressive.svg',
   },
 ];
 
