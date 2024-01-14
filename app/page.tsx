@@ -52,7 +52,7 @@ export default function Home() {
           <div className='select-none bg-zinc-900/30 w-full py-4 text-zinc-200 0'>
             <div className='mx-auto w-11/12 sm:w-9/12 md:w-7/12'>
               <div className='space-y-4 text-left'>
-              Copyright © 2023 ewgsta
+              Romanbaba © 2023-2024, all rights reserved.
               </div>
             </div>
           </div>
