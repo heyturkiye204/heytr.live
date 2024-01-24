@@ -61,7 +61,7 @@ export default function PorfileDetails({ discord }: {discord: DiscordUserData | 
       <div className='avatar'>
         {discord ? (
           <div className={'w-36 rounded-full mb-4 md:mb-0 ring ' + (discord.data['discord_status'] == 'dnd' ? 'ring-[#ed4245]' : discord.data['discord_status'] == 'idle' ? 'ring-[#fee75c]' : discord.data['discord_status'] == 'online' ? 'ring-[#57f287]' : 'ring-[#2c2f33]')}>
-            <Image className='rounded-full hover:opacity-75 transition duration-700' src={`https://i.hizliresim.com/rimpbg6.jpg`} alt='avatar' width={1024} height={1024} />
+            <Image className='rounded-full hover:opacity-75 transition duration-700' src={`https://cdn.discordapp.com/avatars/${discord.data['discord_user'].id}/${discord.data['discord_user'].avatar}`} alt='avatar' width={1024} height={1024} />
             <div className="absolute bottom-1 bg-[#0d0d10] rounded-full right-1 w-10 h-10 sm:hidden md:flex lg:flex items-center justify-center">
               <div className="w-full h-full relative flex items-center justify-center">
                 <div className={'animate-ping w-6 h-6 rounded-full ' + (discord.data['discord_status'] == 'dnd' ? 'bg-red-500' : discord.data['discord_status'] == 'idle' ? 'bg-yellow-500' : discord.data['discord_status'] == 'online' ? 'bg-green-500' : 'bg-zinc-600')} />
